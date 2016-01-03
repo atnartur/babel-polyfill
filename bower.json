@@ -1,0 +1,22 @@
+{
+  "name": "babel-polyfill",
+  "homepage": "https://github.com/atnartur/babel-polyfill",
+  "authors": [
+    "atnartur <i@atnartur.ru>"
+  ],
+  "description": "mirror from official npm package babel-polyfill",
+  "main": "polyfill.min.js",
+  "moduleType": [],
+  "keywords": [
+    "babel",
+    "babel-polyfill",
+    "polyfill"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
